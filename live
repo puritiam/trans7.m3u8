@@ -1,0 +1,9 @@
+EXTM3U 
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1585069891~exp=9007200839810882~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_0/chunklist.m3u8*~hmac=0128b4d4f91ab0fd02c9a3b962684cdb9f80d47050cbc04abaca2735055f9f5e&hdnts=st=1585069879~exp=1585069999~acl=/*~id=90a9339e-b947-494d-91c7-e24fe16a7712~data=180.242.234.231~hmac=2fcfe2bffa2deaf3ad890521e2fb559c9ce91971b7d454443a4126ebb8515188
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2550000
+https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1585069891~exp=9007200839810882~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_1/chunklist.m3u8*~hmac=2fdf225bcb95a8d31656c49f972841b3251fe64c6edc91e57d65d669d915b35c&hdnts=st=1585069879~exp=1585069999~acl=/*~id=90a9339e-b947-494d-91c7-e24fe16a7712~data=180.242.234.231~hmac=2fcfe2bffa2deaf3ad890521e2fb559c9ce91971b7d454443a4126ebb8515188
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2530000
+https://livetvhooq.akamaized.net/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1585069891~exp=9007200839810882~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=e1e325383b19802db9c72d10904c2a63e9ed1a09b188f9ec3fcf715fbcda72ea&hdnts=st=1585069879~exp=1585069999~acl=/*~id=90a9339e-b947-494d-91c7-e24fe16a7712~data=180.242.234.231~hmac=2fcfe2bffa2deaf3ad890521e2fb559c9ce91971b7d454443a4126ebb8515188
